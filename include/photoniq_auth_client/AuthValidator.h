@@ -6,8 +6,8 @@
 #include <velocypack/velocypack-aliases.h>
 #include <shared_mutex>
 #include <cpr/cpr.h>
-#include "pulsar/Client.h"
-#include "pulsar/Reader.h"
+#include <pulsar/Client.h>
+#include <pulsar/Reader.h>
 
 namespace auth {
 
